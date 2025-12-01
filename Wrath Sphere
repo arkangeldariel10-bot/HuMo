@@ -1,0 +1,56 @@
+Título interno: «Wrath Sphere – 10 second impact»
+Duración total: 10.00 s | 23.976 fps | 1920×1080 (scope 2.39:1 con letterbox opcional)
+0.00–3.00 s · Establishing shot aéreo
+
+Cámara drone lenta ascendiendo desde el pueblo en ruinas hacia la silueta flotante del personaje (backlit por luna roja sangre).
+24 cuervos girando en espiral perfecta (forman un toroide alrededor de él).
+Aura negra con edge particles rojas que se desgarran como tela quemada.
+Viento constante + coro gregoriano ultra-bajo (28 Hz felt but not heard).
+Lens flare rojo cada vez que un cuervo cruza la luna.
+
+3.00–4.20 s · Primer push-in extremo al ojo
+
+En exactamente 0.37 s (9 frames) la cámara hace push-in de gran angular a macro extremo del ojo rojo en cruz.
+Distorsión anamórfica + chromatic aberration rojo solo en bordes.
+Todo el sonido se corta a un kick subminal 28 Hz + latido cardíaco lento.
+El iris vibra con energía roja (glow + displacement map de ondas sinusoidales).
+Parpidee una sola vez a los 4.00 s exactos; el parpadeo deja un afterimage rojo de 4 frames.
+
+4.20–5.00 s · Línea de diálogo
+
+Voz procesada: reverb demoníaco + pitch -15 % + formant shift.
+Texto (elige según idioma del proyecto):
+JP: 「クソ人間ども…貴様ら全員、死ね…！」
+ES: «¡Malditos humanos… me las pagarán todas!」
+El ojo se enciende al 200 % de brillo en el fotograma exacto de la palabra final.
+
+5.00–7.00 s · Carga + segundo push-in brutal
+
+Cámara retrocede 15 metros en 0.8 s mostrando mano extendida.
+La esfera nace como una gota de tinta negra que cae hacia ARRIBA (2 frames de gravedad invertida).
+Rayos rojos tipo Lichtenberg + partículas de plasma reales (Volumetric + CC Particle World).
+A los 6.50 s: la cámara recibe un “golpe físico” de energía → retrocede 1 frame → luego push-in violento de 18 frames hacia el núcleo de la esfera (ver detalles de caos y mini-agujero negro giratorio con accretion disk rojo).
+
+7.00–8.20 s · Lanzamiento
+
+La esfera sale disparada con motion blur de 270°.
+Match cut inmediato: cámara subjetiva DESDE la esfera (POV attack à la Goku).
+Casas y calles del pueblo pasan borrosas en 0.8 s.
+Distorsión de calor + screen shake creciente.
+
+8.20–10.00 s · Impacto final
+
+8.40 s: contacto → pantalla negra total 3 frames.
+8.52 s: flash invertido blanco puro 2 frames.
+Explosión radial de fuego negro-púrpura + partículas de sombra volando hacia cámara.
+Los 24 cuervos salen disparados en slow-motion 12 % formando una calavera fugaz en el cielo (1 frame clave a 9.10 s).
+A los 9.80 s: todo se oscurece otra vez.
+9.95 s: un último latido + graznido de cuervo lejano con reverb infinito.
+10.00 s: fade to black total.
+
+Audio final mix:
+
+0–4 s: viento + cuervos + coro bajo
+4–5 s: solo latido
+5–7 s: sub-bass creciente 22 Hz → 18 Hz + chisporroteo eléctrico
+7–10 s: impacto diseñado en capas (braaam invertido + metal crunch + glass shatter pitch -800 %)
